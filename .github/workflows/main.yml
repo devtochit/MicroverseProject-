@@ -36,7 +36,14 @@ jobs:
           echo test, and deploy your project.
           
          
-          - name: Super-Linter
-           uses: github/super-linter@v4.9.2
+         ################################
+# Run Linter against code base #
+################################
+- name: Lint Code Base
+  uses: github/super-linter@v4
+  env:
+    VALIDATE_ALL_CODEBASE: false
+    DEFAULT_BRANCH: master
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
           
