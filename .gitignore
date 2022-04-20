@@ -99,9 +99,10 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
-.test.md/
+
 # TernJS port file
 .tern-port
 
-
- 
+# removing  a file
+/test.md 
+.test.md
