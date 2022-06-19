@@ -1,50 +1,75 @@
-<!-- about  Microverse first project -->
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
- # Microverse First project  
+# Leaderboard App
 
-
-> Description the project.
-
- This project is about learning the softs skill it takes to be a successfull developer. 
- Taken some time to style your  readme file so you can communicate  better with your co-workers 
-
-
+> This is an app that allows users to add theirs scores to the Leaderboard API.
 
 ## Built With
 
-- Html
-- Css
-- Github
+- **Languages:**
+  - HTML5 & CSS3
+  - JavaScript
 
-## Live Demo (if available)
+- **Preprocessors:**
+  - Sass
 
-[Live Demo Link](https://livedemo.com)
+- **Framework:**
+  - React
+  - Next js
 
+- **Conventions and Methodologies:**
+  - TTD
+  - MVP pattern
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Web Browser (e.g. Firefox, Chrome, Edge)
+- NPM (Node Package Manager)
+
 ### Setup
+
+Download the code from this repository.
 
 ### Install
 
+1- Install the project dependencies using this command on the root project directory:
+
+```console
+$ npm install
+```
+
+2- Then, run this command to build the application's code:
+
+```console
+$ npm run dev
+```
+
 ### Usage
-
-### Run tests
-
-### Deployment
-
+ npm run dev
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Gabriel Santo**
 
-- GitHub: [@githubhandle](https://github.com/officailesse/MicroverseProject-)
+- GitHub: [@HeDevedUp](https://github.com/HeDeved)
+- Twitter: [@devtochi](https://twitter.com/devtochi)
+- LinkedIn: [jesse uzoma](https://linkedin.com/in/jesseuzoma/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
